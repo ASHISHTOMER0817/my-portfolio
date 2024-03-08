@@ -5,7 +5,6 @@ import {
 	FaTimes,
 	FaGithub,
 	FaLinkedin,
-	FaFacebook,
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
@@ -19,7 +18,7 @@ const Navbar = () => {
 			<div>
 				<img
 					src={logo}
-					alt="Logo Image"
+					alt="Logo"
 					style={{ width: "50px" }}
 				/>
 			</div>

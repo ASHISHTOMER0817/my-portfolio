@@ -11,7 +11,6 @@ const Work = () => {
 						Work
 					</p>
 					<p className="py-6">
-						//Check out some of my recent work
 					</p>
 				</div>
 				<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
